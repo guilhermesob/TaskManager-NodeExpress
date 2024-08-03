@@ -2,6 +2,8 @@
 
  Um simples sistema de gerenciamento de tarefas (Task Manager) construído com Node.js e Express.
 
+## Versão 0.0.0.1
+
 ## Pré-requisitos
 
 - Node.js (versão 14 ou superior)
